@@ -24,4 +24,16 @@ const obj = {
 console.log(obj['name']);
 
 let arr = ['plum.png', 'orange.jpg', 6, 'apple.bmp', {}, [] ];
+
 console.log(arr[4], arr[5], arr[1]);
+
+/* let admin2,
+    name2;
+
+    name2 = "Джон";
+
+    admin2 = name2;
+    console.log(admin2); */
+
+const EARTH = 'Земля';
+let currentUser = "Я";
